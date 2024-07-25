@@ -1,0 +1,37 @@
+[2.606s] Invoking command in '/home/rian/ros2_ws/src/examples/rclpy/guard_conditions': PYTHONPATH=/home/rian/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_guard_conditions build --build-base /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build install --record /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/install.log --single-version-externally-managed install_data
+[10.757s] running egg_info
+[10.758s] creating ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info
+[10.769s] writing ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[10.769s] writing dependency_links to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[10.769s] writing entry points to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[10.769s] writing requirements to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/requires.txt
+[10.769s] writing top-level names to ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/top_level.txt
+[10.769s] writing manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[10.770s] reading manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[10.770s] writing manifest file '../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[10.770s] running build
+[10.770s] running build_py
+[10.770s] creating /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build
+[10.770s] creating /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build/lib
+[10.770s] creating /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions
+[10.770s] copying examples_rclpy_guard_conditions/trigger_guard_condition.py -> /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions
+[10.770s] copying examples_rclpy_guard_conditions/__init__.py -> /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions
+[10.770s] running install
+[10.770s] running install_lib
+[10.770s] creating /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions
+[10.770s] copying /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions/trigger_guard_condition.py -> /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions
+[10.771s] copying /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build/lib/examples_rclpy_guard_conditions/__init__.py -> /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions
+[10.771s] byte-compiling /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions/trigger_guard_condition.py to trigger_guard_condition.cpython-310.pyc
+[10.771s] byte-compiling /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions/__init__.py to __init__.cpython-310.pyc
+[10.771s] running install_data
+[10.771s] creating /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index
+[10.771s] creating /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index
+[10.771s] creating /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[10.771s] copying resource/examples_rclpy_guard_conditions -> /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[10.771s] copying package.xml -> /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/share/examples_rclpy_guard_conditions
+[10.771s] running install_egg_info
+[10.771s] Copying ../../../../build/examples_rclpy_guard_conditions/examples_rclpy_guard_conditions.egg-info to /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples_rclpy_guard_conditions-0.15.1-py3.10.egg-info
+[10.771s] running install_scripts
+[10.771s] Installing trigger_guard_condition script to /home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[10.772s] writing list of installed files to '/home/rian/ros2_ws/build/examples_rclpy_guard_conditions/install.log'
+[10.865s] Invoked command in '/home/rian/ros2_ws/src/examples/rclpy/guard_conditions' returned '0': PYTHONPATH=/home/rian/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rian/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_guard_conditions build --build-base /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/build install --record /home/rian/ros2_ws/build/examples_rclpy_guard_conditions/install.log --single-version-externally-managed install_data
